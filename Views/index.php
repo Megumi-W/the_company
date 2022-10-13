@@ -26,7 +26,7 @@
           
           
             <p class="text-center small mt-3">Create An Account <a href="#">Register</a></p>
-            <p>This is a sample applicationtje is using OOP syle of programming.</p>
+            <p>This is a sample application the is using OOP syle of programming.</p>
            </div>
    
 
