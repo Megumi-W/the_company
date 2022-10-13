@@ -42,7 +42,7 @@
                  <button type="submit" class="btn btn-success w-100">Register</button>
             </form>
             <p class="text-center small mt-3">Already registered? <a href="#">Login</a></p>
-            <p>This is the register page.</p>
+            <p>This is the register page</p>
          </div>
    
     </div>
